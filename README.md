@@ -102,15 +102,7 @@ O software foi projetado para fornecer a pesquisadores, engenheiros e estudantes
 
 ---
 
-## Instalação
-
-### Opção 1 – Download do Executável
-
-Acesse:
-
-**Releases**
-
-Baixe:
+## Baixe:
 
 ```
 ThermalCSVViewer-v1.0.exe
@@ -120,38 +112,6 @@ Nenhuma instalação é necessária.
 
 ---
 
-### Opção 2 – Executar a partir do Código-Fonte
-
-Clone o repositório:
-
-```bash
-git clone https://github.com/gabripagin/Thermal-CSV-Viewer.git
-```
-
-Instale as dependências:
-
-```bash
-pip install -r requirements.txt
-```
-
-Execute o programa:
-
-```bash
-python src/thermal_csv_viewer.py
-```
-
----
-
-## Tecnologias Utilizadas
-
-- Python
-- Tkinter
-- NumPy
-- Pandas
-- Matplotlib
-- Pillow
-
----
 
 ## Aplicações
 
