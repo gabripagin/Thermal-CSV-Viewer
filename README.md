@@ -1,4 +1,4 @@
-Thermal CSV Viewer v1.0
+Thermal CSV Viewer v2.0
 
 First public version of the CSV Thermographic Image Viewer.
 
@@ -56,6 +56,15 @@ The software is designed to provide researchers, engineers, and students with a 
 - PNG
 - JPG
   
+---
+
+New features in v2.0
+
+Image selection and moving: Added a Select button to mark individual images and a Move selected images function to move selected CSV files to a chosen folder.
+Jump to file: Added Jump to... functionality to quickly locate and navigate to a CSV file by entering its full or partial name.
+Region selection and analysis: Added Select Area, allowing users to draw a rectangular region over the thermal image and obtain the mean, minimum, and maximum temperature values for the selected area.
+Improved image navigation: Enhanced image selection, navigation, and file management workflows.
+
 ---
 
 ## Available Color Palettes
