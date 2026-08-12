@@ -1,76 +1,64 @@
 Thermal CSV Viewer v1.0
 
-Primeira versão pública do Visualizador de Imagens Termográficas CSV.
+First public version of the CSV Thermographic Image Viewer.
 
-Funcionalidades
-Visualização de imagens termográficas em CSV
-Navegação entre imagens
-Ajuste da escala de temperatura
-Estatísticas em tempo real
-Múltiplas paletas de cores
-Geração de histogramas
-Exportação em PNG e JPG
-Requisitos
-Windows 10 ou superior
-Nenhuma instalação necessária
-Observações
+Features: CSV thermographic image viewing, image navigation, temperature scale adjustment, real-time statistics, multiple color palettes, histogram generation, PNG and JPG export. Requirements: Windows 10 or later; no installation required. Notes:
 
-Caso o Windows SmartScreen exiba um aviso de segurança:
-Mais Informações → Executar Mesmo Assim
+If Windows SmartScreen displays a security warning: More Info → Run anyway.
 
 Interface:
 <img width="787" height="652" alt="main_interface" src="https://github.com/user-attachments/assets/dc3297ec-ba79-4fb1-913b-4e63dcae7582" />
 
 
-## Como citar
+## How to cite
 
 Pagin, G. (2026).
-Visualizador de Imagens Termográficas CSV.
+Thermal CSV Viewer.
 GitHub Repository.
 https://github.com/gabripagin/Thermal-CSV-Viewer
 
 
 -----
 
-## Visão Geral
+## Overview
 
-O Visualizador de Imagens Termográficas CSV é uma aplicação desktop desenvolvida em Python para visualização, análise e exportação de imagens termográficas armazenadas em matrizes CSV.
+The CSV Thermographic Image Viewer is a desktop application developed in Python for the visualization, analysis, and export of thermographic images stored in CSV matrices.
 
-O software foi projetado para fornecer a pesquisadores, engenheiros e estudantes uma interface simples e intuitiva para inspeção de imagens térmicas e análise de temperatura.
+The software is designed to provide researchers, engineers, and students with a simple, intuitive interface for thermal image inspection and temperature analysis.
 
 ---
 
-## Principais Funcionalidades
+## Key Features
 
-✔ Abrir pastas contendo múltiplos arquivos CSV termográficos
+✔ Open folders containing multiple CSV thermographic files
 
-✔ Navegar entre imagens termográficas
+✔ Navigate between thermographic images
 
-✔ Cursor interativo para inspeção da temperatura de cada pixel
+✔ Interactive cursor for inspecting the temperature of each pixel
 
-✔ Ajuste dinâmico da escala de temperatura
+✔ Adjustable temperature scale
 
-✔ Múltiplas paletas de cores térmicas
+✔ Multiple thermal color palettes
 
-✔ Zoom utilizando a roda do mouse
+✔ Zoom using the mouse wheel
 
-✔ Estatísticas em tempo real:
+✔ Real-time statistics:
 
-- Temperatura mínima
-- Temperatura máxima
-- Temperatura média
-- Desvio padrão
+- Minimum temperature
+- Maximum temperature
+- Average temperature
+- Standard deviation
 
-✔ Geração de histogramas térmicos
+✔ Thermal histogram generation
 
-✔ Exportação das imagens nos formatos:
+✔ Image export in the following formats:
 
 - PNG
 - JPG
-
+  
 ---
 
-## Paletas de Cores Disponíveis
+## Available Color Palettes
 
 - Turbo
 - Inferno
@@ -80,55 +68,53 @@ O software foi projetado para fornecer a pesquisadores, engenheiros e estudantes
 - Jet
 - Hot
 - Coolwarm
-- Cinza (Gray)
-- Cinza Invertido (Gray Reversed)
+- Gray
+- Gray Reversed
+---
+
+## Usage Example
+
+1. Click **Select Folder**;
+2. Choose a folder containing thermographic images in CSV format;
+3. Navigate through the images using the buttons:
+
+⬅ Previous
+
+➡ Next
+
+4. Adjust the temperature scale, if necessary;
+5. Choose the desired color palette;
+6. Generate histograms or export the images.
+
 
 ---
 
-## Exemplo de Utilização
-
-1. Clique em **Selecionar Pasta**;
-2. Escolha uma pasta contendo imagens termográficas em formato CSV;
-3. Navegue pelas imagens utilizando os botões:
-
-⬅ Anterior
-
-➡ Próxima
-
-4. Ajuste a escala de temperatura, se necessário;
-5. Escolha a paleta de cores desejada;
-6. Gere histogramas ou exporte as imagens.
-
-
----
-
-## Baixe:
+## Dowload:
 
 ```
 ThermalCSVViewer-v1.0.exe
 ```
 
-Nenhuma instalação é necessária.
+No installation is required.
 
 ---
 
 
-## Aplicações
+## Applications
 
-Este software pode ser utilizado em:
+This software can be used in:
 
-- Pecuária de Precisão
-- Pesquisa em Termografia
-- Ciências Veterinárias
-- Zootecnia
-- Termografia Biomédica
-- Inspeção Industrial
-- Pesquisa Acadêmica
-- Estudos em Visão Computacional
-
+- Precision Livestock Farming
+- Thermography Research
+- Veterinary Science
+- Animal Science
+- Biomedical Thermography
+- Industrial Inspection
+- Academic Research
+- Computer Vision Studies
 ---
 
-## Autor
+## Author
 
 **Gabriel Pagin de Carvalho Nunes Oliveira**
 
