@@ -7,7 +7,7 @@ Features: CSV thermographic image viewing, image navigation, temperature scale a
 If Windows SmartScreen displays a security warning: More Info → Run anyway.
 
 Interface:
-<img width="787" height="652" alt="main_interface" src="https://github.com/user-attachments/assets/dc3297ec-ba79-4fb1-913b-4e63dcae7582" />
+<img width="894" height="704" alt="Imagem" src="https://github.com/user-attachments/assets/c87d4530-bc48-4b6a-a9a0-8637153872e0" />
 
 
 ## How to cite
