@@ -8,6 +8,15 @@ Thermal CSV Viewer is a lightweight desktop application for browsing thermal cam
 Features: CSV thermographic image viewing, image navigation, temperature scale adjustment, real-time statistics, multiple color palettes, histogram generation, PNG export, , image selection for moving between folders, area labeling and image rotation. 
 No installation required. 
 
+## Dowload:
+
+
+[Dowload version 3.0](https://github.com/gabripagin/Thermal-CSV-Viewer/releases/tag/v3.0.0)
+
+
+No installation is required.
+
+
 Notes:
 
 If Windows SmartScreen displays a security warning: More Info → Run anyway.
@@ -116,17 +125,6 @@ Adjustable area overlay color (black/white) to keep annotations visible against 
 
 
 ---
-
-## Dowload:
-
-```
-ThermalCSVViewer-v1.0.exe
-```
-
-No installation is required.
-
----
-
 
 ## Applications
 
