@@ -1,9 +1,14 @@
 
-Thermal CSV Viewer v2.0
+Thermal CSV Viewer 
 
 First public version of the CSV Thermographic Image Viewer.
 
-Features: CSV thermographic image viewing, image navigation, temperature scale adjustment, real-time statistics, multiple color palettes, histogram generation, PNG and JPG export. Requirements: Windows 10 or later; no installation required. Notes:
+Thermal CSV Viewer is a lightweight desktop application for browsing thermal camera exports stored as CSV temperature matrices. It renders them as color-mapped images with live temperature readout, distortion-free zoom, and a full region-labeling workflow (rectangular/circular areas, custom classes, selection of images to move from the folder) — all without needing the camera's proprietary software.
+
+Features: CSV thermographic image viewing, image navigation, temperature scale adjustment, real-time statistics, multiple color palettes, histogram generation, PNG export, , image selection for moving between folders, area labeling and image rotation. 
+No installation required. 
+
+Notes:
 
 If Windows SmartScreen displays a security warning: More Info → Run anyway.
 
