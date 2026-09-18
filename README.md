@@ -12,7 +12,8 @@ Notes:
 
 If Windows SmartScreen displays a security warning: More Info → Run anyway.
 
-Interface:
+## Interface:
+
 <img width="792" height="711" alt="TCSV" src="https://github.com/user-attachments/assets/656366de-36fd-4b45-9270-278adcc24f40" />
 
 
@@ -57,19 +58,31 @@ The software is designed to provide researchers, engineers, and students with a 
 
 ✔ Thermal histogram generation
 
-✔ Image export in the following formats:
+✔ Image export in PNG format
 
-- PNG
-- JPG
+✔ Area labeling
+
   
 ---
 
-New features in v2.0
-
-Image selection and moving: Added a Select button to mark individual images and a Move selected images function to move selected CSV files to a chosen folder.
-Jump to file: Added Jump to... functionality to quickly locate and navigate to a CSV file by entering its full or partial name.
-Region selection and analysis: Added Select Area, allowing users to draw a rectangular region over the thermal image and obtain the mean, minimum, and maximum temperature values for the selected area.
-Improved image navigation: Enhanced image selection, navigation, and file management workflows.
+## Instructions
+Browse folders of thermal CSVs — load an entire folder and step through images with Previous/Next or jump straight to a file by name.
+Color-mapped visualization — multiple palettes (turbo, inferno, magma, plasma, viridis, jet, hot, coolwarm, gray) with adjustable min/max scale.
+Live temperature readout — hover over the image to see the exact temperature at the pixel under your cursor.
+Distortion-free zoom — scroll to zoom in/out; the point under your cursor stays fixed on screen (no panning/jumping), and the view never shows blank space beyond the image edges. Reset anytime with a double-click or the 0 key.
+Area labeling / annotation
+Draw rectangular or circular (perfect-circle) regions of interest directly on the image.
+Define your own label classes and assign one to each region.
+Labels are shown as a subtle, translucent overlay on the image.
+All annotations are saved automatically to a CSV file next to your images (one file per folder, named after the folder) and reloaded automatically the next time you open that folder.
+Adjust mode: select an existing region and either drag its edge handles to resize it (center stays fixed) or drag its middle to move it — both with a live preview before you release the mouse.
+Fixed-area mode: lock new regions to a specific width/height so every labeled area is consistent, even if the region varies slightly in the raw scan.
+Rename a label across every region that uses it, or delete a label (and all regions tagged with it) at once.
+Batch organization — mark specific images and move them to another folder in one click (files are moved, not copied).
+Image correction — flip an image vertically or horizontally directly in the CSV (useful if the sensor was mounted upside-down or mirrored); linked annotations are automatically re-aligned.
+Histogram view of the temperature distribution for the current image.
+Export the current view as a PNG.
+Adjustable area overlay color (black/white) to keep annotations visible against any color palette.
 
 ---
 
