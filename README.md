@@ -1,3 +1,4 @@
+
 Thermal CSV Viewer v2.0
 
 First public version of the CSV Thermographic Image Viewer.
@@ -7,7 +8,7 @@ Features: CSV thermographic image viewing, image navigation, temperature scale a
 If Windows SmartScreen displays a security warning: More Info → Run anyway.
 
 Interface:
-<img width="894" height="704" alt="Imagem" src="https://github.com/user-attachments/assets/c87d4530-bc48-4b6a-a9a0-8637153872e0" />
+<img width="792" height="711" alt="TCSV" src="https://github.com/user-attachments/assets/656366de-36fd-4b45-9270-278adcc24f40" />
 
 
 ## How to cite
